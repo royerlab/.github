@@ -22,7 +22,7 @@ This Github org is a satelite of the main [CZ Biohub repository](https://github.
 
 
 ## Contact Us!
-The organization is maintained by [Loic Royer](https://github.com/royerloic) and [Jordao Bragantini](https://github.com/JoOkuma). Please contact Shalin, Jordao, or other members of the team with your questions. If you have a bug report or question about one of our projects, please [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) on that project.
+The organization is maintained by [Loic Royer](https://github.com/royerloic) and [Jordao Bragantini](https://github.com/JoOkuma). Please contact Loic, Jordao, or other members of the team with your questions. If you have a bug report or question about one of our projects, please [open an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) on that project.
 
 Interested in working with us? Search our job openings [here](https://www.czbiohub.org/careers/).
 
