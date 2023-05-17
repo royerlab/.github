@@ -29,11 +29,11 @@ Interested in working with us? Search our job openings [here](https://www.czbioh
 Latest news from the Royer Lab can be found on [Loic's twitter account](https://twitter.com/loicaroyer)
 
 ## Notes
-Some repositories in this org predate Loic's joining CZB SF as groupe leader. 
+Some repositories in this org predate Loic's joining CZB SF as group leader. 
 Other organisations have been created and in some cases still maintained by Loic or other members of Royer lab:
 
 - The [ClearVolume](https://github.com/ClearVolume) organisation holds repositories created by Loic Royer in the context of the [ClearVolume paper](https://www.nature.com/articles/nmeth.3372) when he was a postdoc in the [Gene Myers lab](https://www.mpi-cbg.de/research/researchgroups/currentgroups/gene-myers/group-leader) at [MPI CBG](https://www.mpi-cbg.de/).
 - The [AutoPilot](https://github.com/MicroscopeAutoPilot) organisation holds repositories created by Loic Royer in the context of the [Autopilot paper](https://www.nature.com/articles/nbt.3708) when he was collaborating as a postdoc with [Philipp Keller](https://www.hhmi.org/scientists/philipp-j-keller) at [HHMI Janelia](https://www.janelia.org/).
-- The [napari](https://github.com/napari) organisations was initially created by Loic when he started the project with [Juan Nunez Iglesias](https://github.com/jni). Loic is not currently an active maintainer of this project.
+- The [napari](https://github.com/napari) organisation was initially created by Loic when he started the project with [Juan Nunez Iglesias](https://github.com/jni). Loic is not currently an active maintainer of this project, napari has taken a bright life of its own and is maintained by a vibrant and talented team of core developpers, the best possible outcome.
 
 
