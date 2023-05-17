@@ -1,4 +1,4 @@
-![Royer Lab, CZ Biohub SF](https://github.com/royerlab/.github/blob/main/zebrafish_onwhite.jpg)
+![Royer Lab, CZ Biohub SF](https://github.com/royerlab/.github/blob/main/zebrafish_onblack.jpg)
 
 The [Royer Lab](https://royerlab.org) at the [Chan Zuckerberg Biohub](https://www.czbiohub.org/sf/) is a pluridisciplinary team of computer scientists, optical engineers, and biologists. Our goal is to build a time-resolved, multidimensional [atlas of vertebrate development using zebrafish as a model organism](zebrahub.org). To attain this goal, we design, build, and implement novel state-of-the-art light-sheet microscopes, as well as deep learning–based image processing and analysis algorithms. 
 
