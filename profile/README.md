@@ -26,7 +26,7 @@ The organization is maintained by [Loic Royer](https://github.com/royerloic) and
 
 Interested in working with us? Search our job openings [here](https://www.czbiohub.org/careers/).
 
-Latest news from the Royer Lab can be found on [Loic's twitter account](https://twitter.com/home)
+Latest news from the Royer Lab can be found on [Loic's twitter account](https://twitter.com/loicaroyer)
 
 ## Notes
 Some repositories in this org predate Loic's joining CZB SF as groupe leader. 
