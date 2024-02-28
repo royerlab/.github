@@ -19,6 +19,8 @@ This Github org is a satelite of the main [CZ Biohub repository](https://github.
 
 - [ZAF](https://github.com/royerlab/ZAF) (Zebrafish Automatic Feeder) is an open-source fully automatic daily feeding system for zebrafish, which provides a standardized amount of food to every tank, is cost-efficient and easy to build ([Lange et al.](https://elifesciences.org/articles/74234)). The advanced version, ZAF+, allows for the precise control of food distribution as a function of fish density per tank. The design is modular and can be scaled depending on user needs, and the system does not adversely affect zebrafish culture. Instructions for building both systems, from hardware and user interface to open-source python code, are provided.
 
+- The [napari](https://github.com/napari) organization and repos were initially created by Loic when he started the project with [Juan Nunez Iglesias](https://github.com/jni). Loic is not currently an active maintainer of this project, napari has taken a bright life of its own and is maintained by a vibrant and talented team of core developpers, the best possible outcome.
+
 ## About CZB SF
 [The Chan Zuckerberg Biohub San Francisco](https://czbiohub.org/sf) is a nonprofit research institute that aims to understand the mechanisms of diseases and develop new technologies to create effective therapies. The institute brings together the leading academic institutions in the San Francisco Bay Area with CZ Biohub's innovative team to catalyze impact and form partnerships that benefit people globally. We strive to make [our tools and technologies](https://www.czbiohub.org/tools/) available to scientists worldwide, free of charge.
 
@@ -36,6 +38,6 @@ Other organisations have been created and in some cases still maintained by Loic
 
 - The [ClearVolume](https://github.com/ClearVolume) organisation holds repositories created by Loic Royer in the context of the [ClearVolume paper](https://www.nature.com/articles/nmeth.3372) when he was a postdoc in the [Gene Myers lab](https://www.mpi-cbg.de/research/researchgroups/currentgroups/gene-myers/group-leader) at [MPI CBG](https://www.mpi-cbg.de/).
 - The [AutoPilot](https://github.com/MicroscopeAutoPilot) organisation holds repositories created by Loic Royer in the context of the [Autopilot paper](https://www.nature.com/articles/nbt.3708) when he was collaborating as a postdoc with [Philipp Keller](https://www.hhmi.org/scientists/philipp-j-keller) at [HHMI Janelia](https://www.janelia.org/).
-- The [napari](https://github.com/napari) organisation was initially created by Loic when he started the project with [Juan Nunez Iglesias](https://github.com/jni). Loic is not currently an active maintainer of this project, napari has taken a bright life of its own and is maintained by a vibrant and talented team of core developpers, the best possible outcome.
+
 
 
